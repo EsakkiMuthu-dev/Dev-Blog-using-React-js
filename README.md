@@ -7,5 +7,7 @@
 
 
 
-###
+### Home Page![home](https://user-images.githubusercontent.com/86913985/138864021-1620c635-60a8-4a6d-bca6-4d4d63be293e.png)
 
+
+### Blog Details Page
